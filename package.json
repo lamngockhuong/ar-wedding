@@ -1,0 +1,27 @@
+{
+  "name": "ar-wedding",
+  "version": "1.0.0",
+  "description": "AR Wedding Application",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamngockhuong/ar-wedding.git"
+  },
+  "author": "me@ngockhuong.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamngockhuong/ar-wedding/issues"
+  },
+  "homepage": "https://github.com/lamngockhuong/ar-wedding#readme",
+  "dependencies": {
+    "@ar-js-org/ar.js": "3.4.5"
+  },
+  "devDependencies": {
+    "vite": "^5.2.8"
+  },
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  }
+}
