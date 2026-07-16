@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/lamngockhuong/ar-wedding#readme",
   "dependencies": {
-    "@ar-js-org/ar.js": "3.4.5"
+    "@ar-js-org/ar.js": "3.4.8"
   },
   "devDependencies": {
     "vite": "^5.2.8"
