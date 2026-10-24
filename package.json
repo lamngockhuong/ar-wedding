@@ -17,7 +17,7 @@
     "@ar-js-org/ar.js": "3.4.5"
   },
   "devDependencies": {
-    "vite": "^5.2.8"
+    "vite": "^6.0.0"
   },
   "scripts": {
     "build": "vite build",
